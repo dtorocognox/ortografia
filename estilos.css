@@ -1,0 +1,28 @@
+.contenedor{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.palabras{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.palabra{
+    margin: 10px 0;
+    width: 300px;
+}
+
+.palabras input{
+    width: 300px;
+}
+
+.comprobar{
+    align-items: center;
+}
+
+/*
+*{
+    border: 1px solid blue;
+}*/
