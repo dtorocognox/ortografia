@@ -5,12 +5,6 @@ function start() {
     button.addEventListener("click", match);
 }
 
-function match(){
-
-
-
-}
-
 function match() {
 
     var singleWord, objectWord;
